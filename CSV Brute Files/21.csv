@@ -1,0 +1,267 @@
+Rank,Country,Fertility rate  in 2019(births/woman)
+1,Niger,6.824
+2,Somalia,5.978
+3,DR Congo,5.819
+4,Mali,5.785
+5,Chad,5.649
+6,Angola,5.442
+7,Burundi,5.321
+8,Nigeria,5.317
+9,Gambia,5.154
+10,Burkina Faso,5.109
+11,Tanzania,4.832
+12,Uganda,4.824
+13,Mozambique,4.783
+14,Benin,4.767
+15,Central African Republic,4.645
+16,Guinea,4.625
+17,South Sudan,4.619
+18,Ivory Coast,4.593
+19,Zambia,4.559
+20,Senegal,4.556
+21,Cameroon,4.506
+22,Mauritania,4.503
+23,Equatorial Guinea,4.429
+24,Guinea-Bissau,4.402
+25,Congo,4.374
+26,Solomon Islands,4.361
+27,Sudan,4.347
+28,Afghanistan,4.321
+29,São Tomé and Príncipe,4.267
+30,Togo,4.259
+31,Liberia,4.247
+32,Sierra Leone,4.169
+33,Ethiopia,4.146
+34,Comoros,4.138
+35,Malawi,4.127
+36,Madagascar,4.026
+37,Eritrea,3.997
+38,Rwanda,3.990
+39,East Timor,3.947
+40,Gabon,3.922
+41,Samoa,3.830
+42,Ghana,3.816
+43,Vanuatu,3.774
+44,Yemen,3.700
+45,Iraq,3.597
+46,Palestine (Gaza Strip and West Bank),3.560
+47,Tajikistan,3.556
+48,Zimbabwe,3.531
+49,Kiribati,3.530
+50,Papua New Guinea,3.520
+51,Tonga,3.518
+52,Pakistan,3.454
+53,Kenya,3.423
+54,Namibia,3.344
+55,Kyrgyzstan,3.300
+56,Egypt,3.280
+57,Lesotho,3.108
+58,Micronesia,3.010
+59,Israel,3.010
+60,Algeria,2.988
+61,Eswatini (Swaziland),2.958
+62,Kazakhstan,2.900
+63,Haiti,2.887
+64,Mongolia,2.867
+65,Oman,2.842
+66,Botswana,2.836
+67,Guatemala,2.822
+68,Uzbekistan,2.785
+69,Syria,2.771
+70,Fiji,2.754
+71,Turkmenistan,2.740
+72,Jordan,2.691
+73,Bolivia,2.688
+74,Djibouti,2.676
+75,Laos,2.626
+76,Philippines,2.526
+77,Cambodia,2.478
+78,Guyana,2.440
+79,Panama,2.437
+80,Honduras,2.427
+81,Paraguay,2.405
+82,Ecuador,2.403
+,World,2.403
+83 (1),Faroe Islands (Denmark),2.400
+84,Suriname,2.394
+85,Morocco,2.382
+86,South Africa,2.381
+87,Nicaragua,2.377
+88,Seychelles,2.340
+89,Dominican Republic,2.323
+90 (2),Guam (US),2.293
+91,Indonesia,2.288
+92,Saudi Arabia,2.275
+93,Belize,2.274
+94,Venezuela,2.250
+95,Argentina,2.247
+96,Cape Verde,2.242
+97,Peru,2.233
+98,Libya,2.206
+99,India,2.202
+100,Sri Lanka,2.188
+101,Tunisia,2.174
+102,Iran,2.146
+103,Myanmar (Burma),2.138
+104,Mexico,2.103
+,Population Replacement,2.100
+105 (3),Greenland (Denmark),2.080
+106,Kuwait,2.077
+107,Lebanon,2.075
+108,Turkey,2.055
+109,Georgia,2.055
+110 (4),U.S. Virgin Islands (US),2.050
+111,Vietnam,2.050
+112,Grenada,2.042
+113,El Salvador,2.021
+114,Bangladesh,2.011
+115,Antigua and Barbuda,1.987
+116,Malaysia,1.983
+117,Kosovo,1.970
+118,Jamaica,1.965
+119,Bahrain,1.964
+120,Uruguay,1.963
+121,Bhutan,1.954
+122 (5),New Caledonia (France),1.940
+123 (6),French Polynesia (France),1.927
+124 (7),Aruba (Netherlands),1.901
+125,North Korea,1.896
+126,Nepal,1.876
+127,Saint Vincent and the Grenadines,1.872
+128,France,1.870
+129,Qatar,1.846
+130,Maldives,1.840
+131,Brunei,1.819
+132 (8),Saint Martin (France) (French part),1.8 (?)
+133,Azerbaijan,1.800
+134,Colombia,1.789
+135,Romania,1.760
+136,Armenia,1.758
+137,Iceland,1.750
+138,Montenegro,1.748
+139,Bahamas,1.743
+140,Costa Rica,1.737
+141,New Zealand,1.720
+142,Trinidad and Tobago,1.711
+143,Czech Republic,1.710
+144,United States,1.705
+145,Ireland,1.700
+146,Denmark,1.700
+147,Sweden,1.700
+148,China,1.696
+149,Estonia,1.660
+150,Australia,1.657
+151,United Kingdom,1.650
+152,Brazil,1.648
+153,Chile,1.627
+154,Barbados,1.623
+155,Latvia,1.610
+156,Slovenia,1.610
+157,Lithuania,1.610
+158,Cuba,1.602
+159 (9),Curaçao (Netherlands),1.600
+160,Albania,1.597
+161 (10),Bermuda (UK),1.590
+162,Bulgaria,1.580
+163,Netherlands,1.570
+164,Belgium,1.570
+165,Slovakia,1.560
+166,Germany,1.540
+167,Norway,1.530
+168,Serbia,1.520
+169,Thailand,1.514
+170,Channel Islands - (11)  Guernsey (UK) and (12)  Jersey (UK),1.510
+171,Russia,1.504
+172,Hungary,1.490
+173,North Macedonia,1.489
+174,Switzerland,1.480
+175,Liechtenstein,1.58
+176,Croatia,1.470
+177,Canada,1.468
+178,Austria,1.460
+179,Saint Lucia,1.424
+180,Poland,1.420
+181,Portugal,1.420
+182,Mauritius,1.400
+183,United Arab Emirates,1.387
+184,Belarus,1.382
+185,Japan,1.360
+186,Finland,1.350
+187,Greece,1.350
+188,Luxembourg,1.340
+189,Cyprus,1.321
+190,Italy,1.270
+191,Moldova,1.269
+192,Bosnia and Herzegovina,1.254
+193,Spain,1.240
+194,Ukraine,1.228
+195 (13),Macau (China),1.200
+196,Singapore,1.140
+197,Malta,1.100
+198 (14),Hong Kong (China),1.072
+199 (15),Puerto Rico (US),1.035
+200,South Korea,0.864
+,Sovereign States: 185,
+,Dependent Territories: 15,
+,World,
+,World,2.377
+,Major Regions,
+1,Sub-Saharan Africa (excluding high income),4.6
+2,Sub-Saharan Africa,4.6
+3,Arab world,3.2
+4,Middle East and North Africa (excluding high income),2.9
+5,Middle East and North Africa,2.8
+6,South Asia,2.4
+7,Latin America and Caribbean,2.0
+8,Latin America and Caribbean (excluding high income),1.9
+9,Europe and Central Asia (excluding high income),1.9
+10,East Asia and Pacific (excluding high income),1.9
+11,East Asia and Pacific,1.8
+12,Europe and Central Asia,1.7
+13,North America,1.7
+14,Central Europe and the Baltics,1.6
+,States’ Size,
+1,Pacific Island small states,3.5
+2,Other small states,3.0
+3,Small states,2.8
+4,Caribbean small states,2.0
+,International Organizations,
+1,OECD members,1.7
+2,European Union,1.5
+,Security Situation,
+1,Fragile and conflict affected situations,4.5
+,Economic Areas,
+1,Euro area,1.5
+,Economic Situation,
+1,Heavily indebted poor countries (HIPC),4.6
+2,Least Developed Countries: UN classification,3.9
+,Income,
+1,Low income countries,4.5
+2,Lower middle income countries,2.7
+3,Low and middle income countries,2.5
+4,Middle income countries,2.3
+5,Upper middle income countries,1.9
+6,High income countries,1.6
+,Not Ranked (no data or data from other years),
+1,American Samoa (US),-
+2,Andorra,1.3 (2010)
+3,British Virgin Islands (UK),-
+4,Cayman Islands (UK),-
+5,Dominica,1.9 (2003)
+6,French Guiana (France),-
+7,Gibraltar (UK),-
+8,Guadeloupe (France),-
+9,Isle of Man (UK),1.6 (2002)
+10,Marshall Islands,4.0 (2011)
+11,Mayotte (France),-
+12,Monaco,-
+13,Nauru,-
+14,Northern Mariana Islands (US),-
+15,Palau,2.2 (2015)
+16,San Marino,1.3 (2012)
+17,Sint Maarten (Netherlands) (Dutch part),2.0 (2011)
+18,Saint Kitts and Nevis,2.1 (2002)
+19,Turks and Caicos Islands,-
+20,Tuvalu,-
+21,Vatican City,-
+22,Western Sahara,-

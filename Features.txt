@@ -1,0 +1,5 @@
+GDP,
+Internet Speed,
+Consumption of Pure Alcohol,
+Intentional Homicide Victims,
+Military Expenditures
