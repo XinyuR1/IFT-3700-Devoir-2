@@ -23,8 +23,7 @@ Belarus
 Belgium
 Belize
 Benin
-Bermuda
-Bermuda (UK)
+Bermuda,Bermuda (UK)
 Bhutan
 Bolivia,Plurinational State of Bolivia
 Bonaire
@@ -53,8 +52,8 @@ Christmas Island (Australia)
 Cocos (Keeling) Islands
 Colombia
 Comoros
-Republic of Congo,Congo-Brazzaville
-Congo,Congo-Kinshasa,Congo DR,Democratic Republic of Congo,DR Congo
+Congo,Republic of Congo,Congo-Brazzaville
+Democratic Republic of Congo,Congo-Kinshasa,Congo DR,,DR Congo
 Cook Islands,Cook Islands (NZ),Cook Islands (New Zealand)
 Costa Rica
 Côte d'Ivoire,Côte d'Ivoire (Ivory Coast)
@@ -99,11 +98,11 @@ Greece
 Greenland,Greenland (Denmark)
 Grenada
 Guadeloupe,Guadeloupe (France)
-Guam.,Guam (USA),Guam (US)
+Guam,Guam (USA),Guam (US)
 Guatemala
 Guernsey
 Guinea
-Guinea Bissau
+Guinea Bissau,Guinea-Bissau
 Guyana
 Haiti
 Holy See
@@ -127,8 +126,6 @@ Jordan
 Kazakhstan
 Kenya
 Kiribati
-North Korea
-South Korea
 Kosovo
 Kurdistan Region (Iraq)
 Kuwait
@@ -176,8 +173,7 @@ New Zealand
 Nicaragua
 Niger
 Nigeria
-Niue
-Niue (New Zealand)
+Niue,Niue (New Zealand)
 Norfolk Island (Australia)
 North Korea
 North Macedonia
@@ -200,7 +196,6 @@ Poland
 Portugal
 Puerto Rico,Puerto Rico (U.S.),Puerto Rico (US),Puerto Rico (USA)
 Qatar
-Republic of Korea
 Republic of Moldova
 Republic of the Congo
 Republika Srpska
@@ -232,7 +227,7 @@ Solomon Islands
 Somalia
 Somaliland
 South Africa
-South Korea
+South Korea,Republic of Korea
 South Sudan
 South-East Asia
 Spain
@@ -273,11 +268,9 @@ Uruguay
 US Virgin Islands
 Uzbekistan
 Vanuatu
-Vatican
-Vatican City
-Venezuela,Venezuela,Bolivarian Republic of
-Viet Nam
-Vietnam
+Vatican,Vatican City
+Venezuela,Bolivarian Republic of Venezuela
+Vietnam,Viet Nam
 Virgin Islands,U.S. Virgin Islands,U.S. Virgin Islands (US)
 Wallis and Futuna,Wallis and Futuna (France)
 West Bank
