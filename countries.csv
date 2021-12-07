@@ -1,10 +1,8 @@
 NAME 1,NAME 2,NAME 3,NAME 4,NAME 5
 Afghanistan
-Africa
 Albania
 Algeria
 American Samoa
-Americas
 Andorra
 Angola
 Anguilla,Anguilla (UK)
@@ -53,10 +51,10 @@ Cocos (Keeling) Islands
 Colombia
 Comoros
 Congo,Republic of Congo,Congo-Brazzaville
-Democratic Republic of Congo,Congo-Kinshasa,Congo DR,,DR Congo
+Democratic Republic of the Congo,Democratic Republic of Congo,Congo-Kinshasa,Congo DR,DR Congo
 Cook Islands,Cook Islands (NZ),Cook Islands (New Zealand)
 Costa Rica
-Côte d'Ivoire,Côte d'Ivoire (Ivory Coast)
+Côte d'Ivoire,Côte d'Ivoire (Ivory Coast),Cote d'Ivoire
 Croatia
 Cuba
 Curacao,Curaçao,Curaçao (Netherlands)
@@ -78,7 +76,6 @@ Estonia
 Eswatini,Eswatini (Swaziland)
 Ethiopia
 EU
-Europe
 Falkland Islands
 Faroe Islands,Faroe Islands (Denmark)
 Federated States of Micronesia
@@ -263,7 +260,7 @@ Ukraine
 United Arab Emirates
 United Kingdom,Great Britain,United Kingdom of Great Britain and Northern Ireland
 United Republic of Tanzania
-United States,United States of America
+United States,United States of America,USA
 Uruguay
 US Virgin Islands
 Uzbekistan

@@ -31,7 +31,7 @@ Croatia,14,18/21,[45],14 for all crimes under the general provisions of the Crim
 Cuba,16,18/20,[46],
 Cyprus,14,,,
 Czech Republic,15,18,[47],
-Denmark (including Faroe Islands)[48],15,18,[31],
+Denmark (including Faroe Islands),15,18,[31],
 DR Congo,14,16,[49],
 Ecuador,12,18,[50],
 El Salvador,12,18,,
@@ -54,7 +54,7 @@ Iceland,15,18,[31],
 India,7,12,[29],"7 only for heinous crimes, 12 for others. Offences by minors can be sentenced for a maximum of 7 years in juvenile hall, except for heinous crimes like murder and rape if age between 16 and 18."
 Indonesia,8,,[29],
 Iraq,9,,[29],
-Iran,9 (girls); 15 (boys),,[56][57],
+Iran,12,,[56][57],
 Ireland,10,12,[58],"Exception for children aged 10 or 11, who can be charged with murder, manslaughter, rape or aggravated sexual assault."
 Israel,12,,[29],
 Italy,14,,[31],Juvenile judiciary system for offenders aged between 14 and 18; separate juvenile halls.
@@ -90,7 +90,7 @@ Oman,9,,[29],
 Norway,15,18,[72],
 Pakistan,7,,[29],
 Palau,10,,,
-Papua New Guinea,7[73],,,
+Papua New Guinea,7,,,
 Panama,12,,,
 Paraguay,14,,[74],Minor offenders can be sentenced to a maximum of 8 years of imprisonment.
 Peru,14,18,[36],"Notes 18 is the standard age of criminal liability in Peru. However, minors from 16–17 years old at the moment of the crime may be subject to 6 to 10 years in prison in case of homicide, feminicide, extortion, vandalism, rape or being member of a criminal gang. Minors from 14–15 years at the moment of a crime may be subject to 4 to 8 years in prison."
@@ -101,21 +101,21 @@ Qatar,7,,[29],
 Romania,14,16/18,[31],
 Russia,14,16,[83],"Notes 16 by default, 14 years specifically for crimes as listed in Section 20 of the Criminal code, like murder, rape, robbery, extortion, kidnapping, motor vehicle theft, terror attack, stealing restricted substances like explosives or narcotics, aggravated anti-social behaviour, vandalism, false report of a terror attack."
 Rwanda,14,,,
-San Marino,14[84],18/21[85],,
+San Marino,14,18/21[85],,
 São Tomé and Príncipe,16,,,
 Saudi Arabia,12,,[29],
 Senegal,13,,,
 Serbia,14,,,
 Sierra Leone,14,,,
-Singapore,10[86],,,The Penal Code Review Committee was proposing to increase the age to 10.
+Singapore,10,,,The Penal Code Review Committee was proposing to increase the age to 10.
 Slovakia,14,,,
 Slovenia,14,18/21,[31],
 Solomon Islands,8,,,
 South Africa,12,14,[87][88],"The age of criminal capacity was raised to 12 by the Child Justice Amendment Act, 2019. There is a rebuttable presumption that a child between the ages of 12 and 14 lacks criminal capacity."
 South Korea,14,19,[29],
-Spain,14[89][90],18/21[91][90],
+Spain,14,18/21[91][90],,
 Sri Lanka,8,,,
-Sudan,12,18,[92]
+Sudan,12,18,[92],
 Swaziland,7,14,[51],
 Sweden,15,18/21,[31],
 Switzerland,10,18,[31],
@@ -131,8 +131,8 @@ Tunisia,13,,,
 Uganda,12,,[51],
 Ukraine,14,16,[31],
 United Arab Emirates,7,,[29],
-United Kingdom,10–12,12,[95][96][97][12][13][14],"10 in England, Wales, and Northern Ireland.  Usually persons aged 10–11 will only be imprisoned in very serious cases, such as murder. Even more so the outcome for youth (12–17) criminal proceedings are usually age categorised (currently it will depend on whether the offender is under 12, under 14, under 16 or under 18, with the older the offender the more severity of punishment, especially for serious crimes). 12 in Scotland. Children under 12 cannot be convicted or get a criminal record; from 12 to 15, decision usually made by the Children's Reporter whether to refer to a children's hearing, which can lead to a criminal record, but could be prosecuted for a criminal offence if the offence is serious."
-United States,varies by state,varies by state,[98][99],"At the state level, 33 states have no minimum age of criminal responsibility.[98] For federal crimes, the minimum age of criminal responsibility is 11.[99] Massachusetts has the oldest minimum age of criminal responsibility at 12 years old with no exceptions while North Carolina has the youngest minimum age at 6 years old.[100]"
+United Kingdom,11,12,[95][96][97][12][13][14],"10 in England, Wales, and Northern Ireland.  Usually persons aged 10–11 will only be imprisoned in very serious cases, such as murder. Even more so the outcome for youth (12–17) criminal proceedings are usually age categorised (currently it will depend on whether the offender is under 12, under 14, under 16 or under 18, with the older the offender the more severity of punishment, especially for serious crimes). 12 in Scotland. Children under 12 cannot be convicted or get a criminal record; from 12 to 15, decision usually made by the Children's Reporter whether to refer to a children's hearing, which can lead to a criminal record, but could be prosecuted for a criminal offence if the offence is serious."
+United States,0,varies by state,[98][99],"At the state level, 33 states have no minimum age of criminal responsibility.[98] For federal crimes, the minimum age of criminal responsibility is 11.[99] Massachusetts has the oldest minimum age of criminal responsibility at 12 years old with no exceptions while North Carolina has the youngest minimum age at 6 years old.[100]"
 Uruguay,13,18,[101],
 Uzbekistan,13,16,[29],"""Persons can be held criminally responsible for all offences committed after they have reached the age of 16, and for intentional killing from the age of 13, and for other specifically named offences from the age of 14. [Criminal Code, Article 17]"""
 Vanuatu,10,,,
