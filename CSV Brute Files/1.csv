@@ -41,7 +41,7 @@ Brunei *,South-eastern Asia,Asia,"33,097",2021,"31,086",2019,"27,466",2020
 Puerto Rico *,Caribbean,Americas,"32,233",2021,"35,791",2019,"32,291",2020
 Taiwan *,Eastern Asia,Asia,"32,123",2021,"28,371",[6][7] 2020,N/A,N/A
 Malta *,Southern Europe,Europe,"31,576",2021,"33,752",2019,"27,885",2020
-Turks and Caicos Islands,Caribbean,Americas,N/A,N/A,"31,353",2019,"23,880",2020
+Turks and Caicos Islands *,Caribbean,Americas,N/A,N/A,"31,353",2019,"23,880",2020
 Spain *,Southern Europe,Europe,"30,996",2021,"29,816",2019,"27,057",2020
 Bahamas *,Caribbean,Americas,"30,070",2021,"34,864",2019,"28,608",2020
 Cyprus *,Western Asia,Asia,"29,551",2021,"28,285",2019,"26,624",2020
@@ -84,7 +84,7 @@ Maldives *,Southern Asia,Asia,"11,801",2021,"10,626",2019,"7,456",2020
 Russia *,Eastern Europe,Europe,"11,654",2021,"11,606",2019,"10,127",2020
 Malaysia *,South-eastern Asia,Asia,"11,604",2021,"11,414",2019,"10,402",2020
 American Samoa *,Polynesia,Oceania,N/A,N/A,N/A,N/A,"11,535",2019
-World,World,World,N/A,N/A,"11,339",2019,"10,926",2020
+World *,World,World,N/A,N/A,"11,339",2019,"10,926",2020
 Bulgaria *,Eastern Europe,Europe,"11,321",2021,"9,703",2019,"9,976",2020
 Nauru *,Micronesia,Oceania,"10,125",2021,"12,351",2019,"10,983",2019
 Kazakhstan *,Central Asia,Asia,"9,828",2021,"9,793",2019,"9,056",2020
