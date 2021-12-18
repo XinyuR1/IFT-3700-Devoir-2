@@ -2,7 +2,7 @@ NAME 1,NAME 2,NAME 3,NAME 4,NAME 5
 Afghanistan
 Albania
 Algeria
-American Samoa
+American Samoa,American Samoa (US)
 Andorra
 Angola
 Anguilla,Anguilla (UK)
@@ -43,7 +43,7 @@ Caribbean Netherlands
 Cayman Islands,Cayman Islands (UK)
 Central African Republic
 Chad
-Channel Islands,Channel Islands (UK),Channel Islands - (11) Guernsey (UK) and (12) Jersey (UK)
+Channel Islands,Channel Islands (UK)
 Chile
 China,People's Republic of China
 Christmas Island (Australia)
@@ -82,7 +82,7 @@ Federated States of Micronesia
 Fiji
 Finland
 France
-French Guiana
+French Guiana,French Guiana (France)
 French Polynesia,French Polynesia (France)
 Gabon
 Gambia
@@ -99,7 +99,7 @@ Guam,Guam (USA),Guam (US)
 Guatemala
 Guernsey
 Guinea
-Guinea Bissau,Guinea-Bissau
+Guinea Bissau,Guinea-Bissau,GuineaBissau
 Guyana
 Haiti
 Holy See
@@ -176,7 +176,7 @@ North Korea
 North Macedonia
 Northern Cyprus
 Northern Ireland
-Northern Mariana Islands,Northern Mariana Islands (USA)
+Northern Mariana Islands,Northern Mariana Islands (US)
 Norway
 Occupied Palestinian Territory
 Oman
@@ -196,7 +196,7 @@ Qatar
 Republic of Moldova
 Republic of the Congo
 Republika Srpska
-Réunion,Réunion (France)
+Réunion,Réunion (France),Reunion
 Romania
 Russia,Russian Federation
 Rwanda
@@ -217,7 +217,7 @@ Serbia
 Seychelles
 Sierra Leone
 Singapore
-Sint Maarten,Sint Maarten (Netherlands)
+Sint Maarten,Sint Maarten (Netherlands),Sint Maarten (Netherlands) (Dutch part)
 Slovakia
 Slovenia
 Solomon Islands
@@ -274,5 +274,6 @@ West Bank
 Western Sahara,Western Sahara (Sahrawi)
 Western Samoa
 Yemen
+Yugoslavia,FR Yugoslavia
 Zambia
 Zimbabwe

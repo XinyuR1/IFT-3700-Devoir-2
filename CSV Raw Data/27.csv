@@ -1,80 +1,80 @@
 Country,Oil production2020 (bbl/day)[1],Oil production per capita2017 (bbl/day/million people)[6]
-United States,"11,307,560","35,922"
-Russia,"9,865,495","73,292"
-Saudi Arabia (OPEC),"9,264,921","324,866"
-Canada,"4,201,101","100,931"
-Iraq (OPEC),"4,102,311","119,664"
-China,"3,888,989","2,836"
-United Arab Emirates (OPEC),"3,138,249","335,103"
-Brazil,"2,939,950","12,113"
-Iran (OPEC),"2,665,809","49,714"
-Kuwait (OPEC),"2,625,145","721,575"
-Nigeria (OPEC),"1,775,940","10,752"
-Kazakhstan,"1,756,705","88,686"
-Norway,"1,712,937","313,661"
-Mexico,"1,710,303","17,142"
-Qatar,"1,530,000","500,000"
-Angola (OPEC),"1,249,678","61,417"
-Algeria (OPEC),"1,122,432","33,205"
-Oman,"948,967","217,178"
-United Kingdom,"947,208","14,284"
-Colombia,"791,844","18,452"
-Indonesia,"712,112","3,192"
-Azerbaijan,"693,880","85,710"
+United States,"11,307,560",35922
+Russia,"9,865,495",73292
+Saudi Arabia,"9,264,921",324866
+Canada,"4,201,101",100931
+Iraq,"4,102,311",119664
+China,"3,888,989",2836
+United Arab Emirates,"3,138,249",335103
+Brazil,"2,939,950",12113
+Iran,"2,665,809",49714
+Kuwait,"2,625,145",721575
+Nigeria,"1,775,940",10752
+Kazakhstan,"1,756,705",88686
+Norway,"1,712,937",313661
+Mexico,"1,710,303",17142
+Qatar,"1,530,000",500000
+Angola,"1,249,678",61417
+Algeria,"1,122,432",33205
+Oman,"948,967",217178
+United Kingdom,"947,208",14284
+Colombia,"791,844",18452
+Indonesia,"712,112",3192
+Azerbaijan,"693,880",85710
 India,"627,415",554
-Egypt,"586,735","6,860"
-Malaysia,"541,017","21,202"
-Venezuela (OPEC),"527,063","18,821"
-Ecuador,"479,371","33,470"
-Argentina,"440,335","11,644"
-Libya (OPEC),"408,074","159,383"
-Australia,"351,180","14,040"
-Congo-Brazzaville (OPEC),"282,541","60,168"
-Thailand,"202,117","3,667"
-Ghana,"199,478","3,564"
-Vietnam,"193,264","3,194"
-Turkmenistan,"184,579","42,549"
-Gabon (OPEC),"173,634","106,528"
-South Sudan,"162,475",–
-Equatorial Guinea (OPEC),"147,563","125,068"
-Chad,"115,817","7,393"
-Italy,"100,514","1,189"
-Brunei,"98,642","257,959"
-Guyana,"83,174",–
+Egypt,"586,735",6860
+Malaysia,"541,017",21202
+Venezuela,"527,063",18821
+Ecuador,"479,371",33470
+Argentina,"440,335",11644
+Libya,"408,074",159383
+Australia,"351,180",14040
+Congo-Brazzaville,"282,541",60168
+Thailand,"202,117",3667
+Ghana,"199,478",3564
+Vietnam,"193,264",3194
+Turkmenistan,"184,579",42549
+Gabon,"173,634",106528
+South Sudan,"162,475",
+Equatorial Guinea,"147,563",125068
+Chad,"115,817",7393
+Italy,"100,514",1189
+Brunei,"98,642",257959
+Guyana,"83,174",
 Pakistan,"79,112",400
-Denmark,"71,339","24,369"
-Romania,"67,574","25,469"
-Cameroon,"66,749","3,983"
+Denmark,"71,339",24369
+Romania,"67,574",25469
+Cameroon,"66,749",3983
 Yemen,"66,000",797
-Sudan,"64,740",–
+Sudan,"64,740",
 Turkey,"61,757",622
-Bolivia,"60,161","5,334"
-Trinidad and Tobago,"56,556","44,054"
-Bahrain,"43,000","36,000"
-Cuba,"41,079","4,357"
-Peru,"40,386","1,267"
-Papua New Guinea,"40,249","7,013"
-Uzbekistan,"37,997","1,682"
+Bolivia,"60,161",5334
+Trinidad and Tobago,"56,556",44054
+Bahrain,"43,000",36000
+Cuba,"41,079",4357
+Peru,"40,386",1267
+Papua New Guinea,"40,249",7013
+Uzbekistan,"37,997",1682
 Germany,"37,508",571
-Côte d'Ivoire (Ivory Coast),"36,746","1,265"
-Syria,"35,000","1,627"
-Belarus,"34,249","2,637"
+Côte d'Ivoire (Ivory Coast),"36,746",1265
+Syria,"35,000",1627
+Belarus,"34,249",2637
 Ukraine,"33,577",720
-Tunisia,"30,738","4,275"
+Tunisia,"30,738",4275
 Congo-Kinshasa,"23,000",254
 Poland,"18,765",525
-New Zealand,"18,579","7,633"
-Mongolia,"17,582","7,739"
-Hungary,"16,418","1,426"
-Serbia,"15,249","2,272"
-Suriname,"14,915","30,465"
-Netherlands,"14,579","1,070"
-Albania,"14,331","7,901"
-East Timor,"14,000","47,839"
+New Zealand,"18,579",7633
+Mongolia,"17,582",7739
+Hungary,"16,418",1426
+Serbia,"15,249",2272
+Suriname,"14,915",30465
+Netherlands,"14,579",1070
+Albania,"14,331",7901
+East Timor,"14,000",47839
 France,"12,910",253
 Philippines,"12,249",193
-Croatia,"11,749","3,223"
-Austria,"10,822","1,742"
+Croatia,"11,749",3223
+Austria,"10,822",1742
 Niger,"9,497",631
 Myanmar,"8,833",284
 Guatemala,"7,749",544
@@ -83,9 +83,9 @@ Bangladesh,"3,000",25
 Czech Republic,"2,000",220
 Lithuania,"2,000",689
 Greece,"1,831",285
-Belize,"1,700","5,464"
+Belize,"1,700",5464
 Chile,"1,582",247
-Barbados,"1,000","3,521"
+Barbados,"1,000",3521
 Kyrgyzstan,"1,000",169
 Bulgaria,"1,000",140
 South Africa,"1,000",35
@@ -96,4 +96,3 @@ Slovakia,200,37
 Taiwan,196,8
 Tajikistan,180,20
 Morocco,160,4
-World,"76,124,800","10,798"

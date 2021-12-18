@@ -1,0 +1,8 @@
+Country/Territory,GDP,Internet Speed,Consumption of Pure Alcohol,Intentional Homicide Victims,Military Expenditures,Human Development Index,Democracy Index,Tertiary Education,Importance of Religion,% of Christians,% of Muslims,% of Buddhists,% of Jews,Under-Five Mortality,Age of Criminal Responsibility,Minimal Wage,External Debt (% of GDP),Gini %,Health Expenditure,Suicide Rate,Fertility Rate,Tabacco Consumption,Obesity Rate,Internet Users,Median Age,Economic Freedom Score,Oil Production,Population Growth Rate,Life Expectancy,Meat Consumption per kg,Incarceration Rate,Literacy Rate,Age at First Marriage,Spending on Education,Homeless Population,Milk Consumption,Num. of Scientific and Technical Journals Articles,Books Published,Kilocalories,Avg. Yearly Temperature in Celsius
+Canada,1,0,0,0,0,1,1,1,1,0,0,1,1,0,0,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,1,0,0,0
+China,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+France,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0,0,1,1,0,0,1,1,1,1,0,0,0,1
+Germany,1,0,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,1,1,1,0,1,0
+Mexico,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1
+Russia,0,0,1,1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+United States,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1
