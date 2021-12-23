@@ -1,0 +1,393 @@
+{
+    "class" : "BayesianNetwork",
+    "name" : "Probl\u00e8me classique de l'alarme",
+    "structure" : [
+        [],
+        [],
+        [
+            0,
+            1
+        ],
+        [
+            2
+        ],
+        [
+            2
+        ]
+    ],
+    "states" : [
+        {
+            "class" : "State",
+            "distribution" : {
+                "class" : "Distribution",
+                "dtype" : "bool",
+                "name" : "DiscreteDistribution",
+                "parameters" : [
+                    {
+                        "False" : 0.999,
+                        "True" : 0.001
+                    }
+                ],
+                "frozen" : false
+            },
+            "name" : "Voleur",
+            "weight" : 1.0
+        },
+        {
+            "class" : "State",
+            "distribution" : {
+                "class" : "Distribution",
+                "dtype" : "bool",
+                "name" : "DiscreteDistribution",
+                "parameters" : [
+                    {
+                        "False" : 0.998,
+                        "True" : 0.002
+                    }
+                ],
+                "frozen" : false
+            },
+            "name" : "S\u00e9isme",
+            "weight" : 1.0
+        },
+        {
+            "class" : "State",
+            "distribution" : {
+                "class" : "Distribution",
+                "name" : "ConditionalProbabilityTable",
+                "table" : [
+                    [
+                        "False",
+                        "False",
+                        "False",
+                        "0.999"
+                    ],
+                    [
+                        "False",
+                        "False",
+                        "True",
+                        "0.0010000000000000002"
+                    ],
+                    [
+                        "False",
+                        "True",
+                        "False",
+                        "0.71"
+                    ],
+                    [
+                        "False",
+                        "True",
+                        "True",
+                        "0.29"
+                    ],
+                    [
+                        "True",
+                        "False",
+                        "False",
+                        "0.06"
+                    ],
+                    [
+                        "True",
+                        "False",
+                        "True",
+                        "0.94"
+                    ],
+                    [
+                        "True",
+                        "True",
+                        "False",
+                        "0.05000000000000001"
+                    ],
+                    [
+                        "True",
+                        "True",
+                        "True",
+                        "0.95"
+                    ]
+                ],
+                "dtypes" : [
+                    "bool",
+                    "bool",
+                    "bool",
+                    "float"
+                ],
+                "parents" : [
+                    {
+                        "class" : "Distribution",
+                        "dtype" : "bool",
+                        "name" : "DiscreteDistribution",
+                        "parameters" : [
+                            {
+                                "False" : 0.999,
+                                "True" : 0.001
+                            }
+                        ],
+                        "frozen" : false
+                    },
+                    {
+                        "class" : "Distribution",
+                        "dtype" : "bool",
+                        "name" : "DiscreteDistribution",
+                        "parameters" : [
+                            {
+                                "False" : 0.998,
+                                "True" : 0.002
+                            }
+                        ],
+                        "frozen" : false
+                    }
+                ]
+            },
+            "name" : "Alarme",
+            "weight" : 1.0
+        },
+        {
+            "class" : "State",
+            "distribution" : {
+                "class" : "Distribution",
+                "name" : "ConditionalProbabilityTable",
+                "table" : [
+                    [
+                        "False",
+                        "False",
+                        "0.95"
+                    ],
+                    [
+                        "False",
+                        "True",
+                        "0.05000000000000001"
+                    ],
+                    [
+                        "True",
+                        "False",
+                        "0.10000000000000002"
+                    ],
+                    [
+                        "True",
+                        "True",
+                        "0.9"
+                    ]
+                ],
+                "dtypes" : [
+                    "bool",
+                    "bool",
+                    "float"
+                ],
+                "parents" : [
+                    {
+                        "class" : "Distribution",
+                        "name" : "ConditionalProbabilityTable",
+                        "table" : [
+                            [
+                                "False",
+                                "False",
+                                "False",
+                                "0.999"
+                            ],
+                            [
+                                "False",
+                                "False",
+                                "True",
+                                "0.0010000000000000002"
+                            ],
+                            [
+                                "False",
+                                "True",
+                                "False",
+                                "0.71"
+                            ],
+                            [
+                                "False",
+                                "True",
+                                "True",
+                                "0.29"
+                            ],
+                            [
+                                "True",
+                                "False",
+                                "False",
+                                "0.06"
+                            ],
+                            [
+                                "True",
+                                "False",
+                                "True",
+                                "0.94"
+                            ],
+                            [
+                                "True",
+                                "True",
+                                "False",
+                                "0.05000000000000001"
+                            ],
+                            [
+                                "True",
+                                "True",
+                                "True",
+                                "0.95"
+                            ]
+                        ],
+                        "dtypes" : [
+                            "bool",
+                            "bool",
+                            "bool",
+                            "float"
+                        ],
+                        "parents" : [
+                            {
+                                "class" : "Distribution",
+                                "dtype" : "bool",
+                                "name" : "DiscreteDistribution",
+                                "parameters" : [
+                                    {
+                                        "False" : 0.999,
+                                        "True" : 0.001
+                                    }
+                                ],
+                                "frozen" : false
+                            },
+                            {
+                                "class" : "Distribution",
+                                "dtype" : "bool",
+                                "name" : "DiscreteDistribution",
+                                "parameters" : [
+                                    {
+                                        "False" : 0.998,
+                                        "True" : 0.002
+                                    }
+                                ],
+                                "frozen" : false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "name" : "JeanAppelle",
+            "weight" : 1.0
+        },
+        {
+            "class" : "State",
+            "distribution" : {
+                "class" : "Distribution",
+                "name" : "ConditionalProbabilityTable",
+                "table" : [
+                    [
+                        "False",
+                        "False",
+                        "0.99"
+                    ],
+                    [
+                        "False",
+                        "True",
+                        "0.010000000000000004"
+                    ],
+                    [
+                        "True",
+                        "False",
+                        "0.3"
+                    ],
+                    [
+                        "True",
+                        "True",
+                        "0.7"
+                    ]
+                ],
+                "dtypes" : [
+                    "bool",
+                    "bool",
+                    "float"
+                ],
+                "parents" : [
+                    {
+                        "class" : "Distribution",
+                        "name" : "ConditionalProbabilityTable",
+                        "table" : [
+                            [
+                                "False",
+                                "False",
+                                "False",
+                                "0.999"
+                            ],
+                            [
+                                "False",
+                                "False",
+                                "True",
+                                "0.0010000000000000002"
+                            ],
+                            [
+                                "False",
+                                "True",
+                                "False",
+                                "0.71"
+                            ],
+                            [
+                                "False",
+                                "True",
+                                "True",
+                                "0.29"
+                            ],
+                            [
+                                "True",
+                                "False",
+                                "False",
+                                "0.06"
+                            ],
+                            [
+                                "True",
+                                "False",
+                                "True",
+                                "0.94"
+                            ],
+                            [
+                                "True",
+                                "True",
+                                "False",
+                                "0.05000000000000001"
+                            ],
+                            [
+                                "True",
+                                "True",
+                                "True",
+                                "0.95"
+                            ]
+                        ],
+                        "dtypes" : [
+                            "bool",
+                            "bool",
+                            "bool",
+                            "float"
+                        ],
+                        "parents" : [
+                            {
+                                "class" : "Distribution",
+                                "dtype" : "bool",
+                                "name" : "DiscreteDistribution",
+                                "parameters" : [
+                                    {
+                                        "False" : 0.999,
+                                        "True" : 0.001
+                                    }
+                                ],
+                                "frozen" : false
+                            },
+                            {
+                                "class" : "Distribution",
+                                "dtype" : "bool",
+                                "name" : "DiscreteDistribution",
+                                "parameters" : [
+                                    {
+                                        "False" : 0.998,
+                                        "True" : 0.002
+                                    }
+                                ],
+                                "frozen" : false
+                            }
+                        ]
+                    }
+                ]
+            },
+            "name" : "MarieAppelle",
+            "weight" : 1.0
+        }
+    ]
+}
